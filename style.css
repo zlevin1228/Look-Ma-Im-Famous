@@ -1,14 +1,14 @@
 #homebtn1 {
-    background-image: url('Images/halasbball.jpg');
+    background-image: url('Images/halasbball.jpg'); /*Image from MLB.com */
     
 }
 
 #homebtn2 {
-    background-image: url('Images/halas.jpg');
+    background-image: url('Images/halas.jpg'); /*Image from Illinois Athletics */
 }
 
 #homebtn3 {
-    background-image: url('Images/bearsstadium.jpg');
+    background-image: url('Images/bearsstadium.jpg'); /*Image from Windy City Gridiron */
 }
 
 a.btn-lg {
