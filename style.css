@@ -10,3 +10,7 @@
 #homebtn3 {
     background-image: url('Images/bearsstadium.jpg');
 }
+
+a.btn {
+    width: 100%;
+}
