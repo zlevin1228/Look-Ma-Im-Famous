@@ -1,5 +1,5 @@
 #homebtn1 {
-    background-image: url('Images/halasbballcard.jpg'); /*Image from MLB.com */
+    background-image: url('Images/halasbballcard.jpg'); /*Image from Identify Medals */
     
 }
 
@@ -15,9 +15,21 @@ a.btn-lg {
     width: 75%;
     height: 500px;
     background-position: center center;
+    vertical-align: baseline;
+    color: white;
+    font-size: 30px;
+    text-shadow: 1px 1px 1px black;
 }
 
-img {
+a.btn-lg:hover {
+    color: aliceblue;
+}
+
+img#imgfix {
     width: 100%;
     height: 100%;
+}
+
+#logo {
+    width: 20%;
 }
