@@ -1,5 +1,5 @@
 #homebtn1 {
-    background-image: url('Images/halasbball.jpg'); /*Image from MLB.com */
+    background-image: url('Images/halasbballcard.jpg'); /*Image from MLB.com */
     
 }
 
@@ -12,7 +12,9 @@
 }
 
 a.btn-lg {
-    width: 80%;
+    width: 75%;
+    height: 500px;
+    background-position: center center;
 }
 
 img {
