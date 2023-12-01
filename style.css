@@ -9,6 +9,7 @@
 
 #homebtn3 {
     background-image: url('Images/bearsstadium.jpg'); /*Image from Windy City Gridiron */
+    font-size: 50px;
 }
 
 a.btn-lg {
@@ -33,4 +34,8 @@ img#imgfix {
 
 #logo {
     width: 20%;
+}
+
+#legacytext {
+    font-size: 15px;
 }
