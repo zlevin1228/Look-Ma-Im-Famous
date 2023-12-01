@@ -16,6 +16,7 @@ a.btn-lg {
     height: 500px;
     background-position: center center;
     vertical-align: baseline;
+    align-items: center;
     color: white;
     font-size: 30px;
     text-shadow: 1px 1px 1px black;
