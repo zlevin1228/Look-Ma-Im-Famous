@@ -39,3 +39,17 @@ img#imgfix {
 #legacytext {
     font-size: 15px;
 }
+
+nav {
+    background-color: #fa6b2f;
+}
+
+body {
+    background-color: #03182f;
+    color: #fa6b2f;
+}
+
+#text {
+    background-color: #002955;
+    color: #fa6b2f;
+}
